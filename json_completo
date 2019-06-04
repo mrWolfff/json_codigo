@@ -1,0 +1,116 @@
+{
+  "animes": [
+    {
+      "url": "https://theprocrastinadores.files.wordpress.com/2015/08/berserk-kentaro-miura-full-1005291.jpg",
+      "titulo": "Berserk: Ōgon Jidai-Hen",
+      "genero": "Açao, Seinen, gore",
+      "episodios": 3,
+      "ano": 2012
+    },
+    {
+      "url": "https://images.justwatch.com/backdrop/9393452/s1440/fate-stay-night-unlimited-blade-works",
+      "titulo": "Fate Stay Night: Unlimited Blade Works",
+      "genero": "Ação, Seinen",
+      "episodios": 25,
+      "ano": 2014
+    },
+    {
+      "url": "https://otakunoblogg.files.wordpress.com/2017/08/one-punch-man-capa1.jpg?w=620",
+      "titulo": "One Punch Man",
+      "genero": "Ação",
+      "episodios": 13,
+      "ano": 2015
+    },
+    {
+      "url": "https://i.ytimg.com/vi/woAHwpOLmyY/maxresdefault.jpg",
+      "titulo": "Kimi no na Wa",
+      "genero": "Romance",
+      "episodios": 1,
+      "ano": 2016
+    },
+    {     
+      "url": "https://ptanime.com/wp-content/uploads/2018/09/Darling_in_the_FRANXX_3_Tiago_Garcia_Darling_in_the_FRANXX_Analise.jpg",
+      "titulo": "Darling in the Franxx",
+      "genero": "Romance, Mecha",
+      "episodios": 24,
+      "ano": 2018
+    },
+    {
+      "url": "https://www.torredevigilancia.com/wp-content/uploads/2016/03/boku-dake.jpg",
+      "titulo": "Boku dake ga Inai Machi",
+      "genero": "Aventura",
+      "episodios": 12,
+      "ano": 2012
+    },
+    {
+      "url": "https://www.animeunited.com.br/wp-content/uploads/2018/06/maxresdefault-10.jpg",
+      "titulo": "Steins;Gate",
+      "genero": "Ação, Aventura",
+      "episodios": 25,
+      "ano": 2011
+    },
+    {
+      "url": "https://static.anime21.blog.br/2018/10/Screenshot_20181004-161946.jpg",
+      "titulo": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "genero": "Romance",
+      "episodios": 13,
+      "ano": 2018
+    },
+    {
+      "url": "https://www.animeunited.com.br/wp-content/uploads/2018/05/mob-psycho-11-1013509.png",
+      "titulo": "Mob Psycho 100",
+      "genero": "Ação",
+      "episodios": 24,
+      "ano": 2017
+    },
+    {
+      "url": "https://static1.squarespace.com/static/589e053be6f2e1633c1afd41/t/59ed85bc4c326d599b2be942/1508738563281/Shinsekai+Yori+Main.jpg",
+      "titulo": "Shinsekai Yori",
+      "genero": "Aventura, Mistério",
+      "episodios": 25,
+      "ano": 2013
+    },
+    {
+      "url": "https://www.thenerdmag.com/wp-content/uploads/2019/02/Oregairu-xD.jpg",
+      "titulo": "Yahari Ore no Seishun Love Comedy wa Machigatteiru(Oregairu)",
+      "genero": "Romance, Comédia",
+      "episodios": 26,
+      "ano": 2015
+    },
+    {
+      "url": "https://www.animexis.com.br/wp-content/uploads/2018/01/Kobayashi-san-chi-no-Maid-Dragon-750x422.jpg",
+      "titulo": "Kobayashi-san Chi no Maid Dragon",
+      "genero": "Slice of Life",
+      "episodios": 13,
+      "ano": 2017
+    },
+    {
+      "url": "https://1.bp.blogspot.com/-1SfZN0qofuU/WKwvzCsBZAI/AAAAAAAAPI0/Cd9sXh0dQ0EkkORxpfzMQqwTfADWG1lWACLcB/s640/animes-kami-nomi-zo-shiru-sekai-1730.png",
+      "titulo": "Kami nomi zo Shiru Sekai",
+      "genero": "Romance",
+      "episodios": 36,
+      "ano": 2011
+    },
+    {
+      "url": "https://www.tvovermind.com/wp-content/uploads/2018/11/Overlord-750x363.jpg",
+      "titulo": "Overlord",
+      "genero": "Aventura, Isekai",
+      "episodios": 39,
+      "ano": 2015
+    },
+    {
+      "url": "https://i0.wp.com/girladybouvier.com/wp-content/uploads/2018/07/thumb2-violet-evergarden-novel-manga-anime-characters-e1531687941500.png?fit=710%2C444",
+      "titulo": "Violet Evergarden",
+      "genero": "Drama",
+      "episodios": 13,
+      "ano": 2018
+    },
+    {
+      "url": "https://http2.mlstatic.com/fullmetal-alchemist-brotherhood-completo-e-dublado-D_NQ_NP_701605-MLB25038352781_092016-F.jpg",
+      "titulo": "Full Metal Alchemist Brotherhood",
+      "genero": "Ação, Aventura, Shounen",
+      "episodios": 61,
+      "ano": 2009
+    }
+   ]
+}
