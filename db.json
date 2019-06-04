@@ -34,6 +34,27 @@
       "genero": "Romance, Mecha",
       "episodios": 24,
       "ano": 2018
+    },
+    {
+      "url": "https://www.torredevigilancia.com/wp-content/uploads/2016/03/boku-dake.jpg",
+      "titulo": "Boku dake ga Inai Machi",
+      "genero": "Aventura",
+      "episodios": 12,
+      "ano": 2012
+    },
+    {
+      "url": "https://cdn.fstatic.com/media/movies/photos/2016/03/steins-gate_t47631.jpg",
+      "titulo": "Steins;Gate",
+      "genero": "Ação, Aventura",
+      "episodios": 25,
+      "ano": 2011
+    },
+    {
+      "url": "https://i.pinimg.com/236x/00/eb/13/00eb13bf4b7003df74b3a3cc6079a8a9.jpg",
+      "titulo": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "genero": "Romance",
+      "episodios": 13,
+      "ano": 2018
     }
     
    ]
